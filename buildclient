@@ -1,0 +1,2 @@
+docker build --tag rlkamradt/scotchthighui .
+docker push rlkamradt/scotchthighui
