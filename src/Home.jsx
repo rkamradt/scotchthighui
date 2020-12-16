@@ -24,7 +24,7 @@ const Home = () => {
       <Box my={4}>
         <EditButtons />
         <Typography variant="h4" component="h1" gutterBottom>
-          Wine & Cheese Pairing App
+          Scotch & Chicken Thigh Pairing App
         </Typography>
         <WineList />
         <Copyright />
